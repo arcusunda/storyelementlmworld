@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 580">
+  <!-- Background -->
+  <rect width="900" height="580" fill="#1e1e2e" rx="10" ry="10" />
+  
+  <!-- Small label indicators at top -->
+  <text x="240" y="30" font-family="Arial, sans-serif" font-size="14" fill="#c77dff" text-anchor="middle">AI</text>
+  <text x="560" y="30" font-family="Arial, sans-serif" font-size="14" fill="#5a189a" text-anchor="middle">IP</text>
+  
+  <!-- Title -->
+  <text x="450" y="80" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#9d4edd" text-anchor="middle">StoryElement for Los Muertos World</text>
+  
+  <!-- NFT Collection Box -->
+  <rect x="100" y="130" width="160" height="150" rx="10" ry="10" fill="#2c2c44" stroke="#6247aa" stroke-width="2" />
+  <text x="180" y="160" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Los Muertos World</text>
+  <text x="180" y="180" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">NFT Collection</text>
+  
+  <!-- NFT Icons -->
+  <rect x="130" y="200" width="30" height="30" rx="5" ry="5" fill="#ff6d00" />
+  <rect x="170" y="200" width="30" height="30" rx="5" ry="5" fill="#ff6d00" />
+  <rect x="150" y="240" width="30" height="30" rx="5" ry="5" fill="#ff6d00" />
+  
+  <!-- StoryElement.ai Platform Box -->
+  <rect x="300" y="130" width="200" height="240" rx="10" ry="10" fill="#2c2c44" stroke="#9d4edd" stroke-width="3" />
+  <text x="400" y="160" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle">StoryElement.ai</text>
+  
+  <!-- AI Engine Icon -->
+  <circle cx="360" cy="200" r="25" fill="#c77dff" />
+  <text x="360" y="205" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e1e2e" text-anchor="middle">AI</text>
+  
+  <!-- Database Icon -->
+  <rect x="420" y="180" width="40" height="50" rx="5" ry="5" fill="#5a189a" />
+  <rect x="430" y="190" width="20" height="5" rx="2" ry="2" fill="#c77dff" />
+  <rect x="430" y="200" width="20" height="5" rx="2" ry="2" fill="#c77dff" />
+  <rect x="430" y="210" width="20" height="5" rx="2" ry="2" fill="#c77dff" />
+  
+  <!-- Features Listed -->
+  <text x="400" y="250" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">• AI Vision</text>
+  <text x="400" y="270" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">• Muerto Chat</text>
+  <text x="400" y="290" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">• Muerto Storytime</text>
+  <text x="400" y="310" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">• Muerto StoryElement</text>
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">• Los Muertos World Scholar</text>
+  <text x="400" y="350" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">• Story Network Specialist</text>
+  
+  <!-- Story Network Box -->
+  <rect x="540" y="130" width="160" height="140" rx="10" ry="10" fill="#2c2c44" stroke="#6247aa" stroke-width="2" />
+  <text x="620" y="160" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Story Network</text>
+  
+  <!-- Blockchain Icons -->
+  <rect x="570" y="180" width="30" height="30" rx="5" ry="5" fill="#5a189a" />
+  <rect x="610" y="180" width="30" height="30" rx="5" ry="5" fill="#5a189a" />
+  <rect x="650" y="180" width="30" height="30" rx="5" ry="5" fill="#5a189a" />
+  <text x="620" y="230" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">IP Assets Registry</text>
+  
+  <!-- Licensees Box -->
+  <rect x="740" y="130" width="120" height="150" rx="10" ry="10" fill="#2c2c44" stroke="#ff8906" stroke-width="2" />
+  <text x="800" y="160" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Licensees</text>
+  
+  <!-- Licensee Icons -->
+  <rect x="770" y="180" width="25" height="25" rx="5" ry="5" fill="#ff8906" />
+  <text x="782" y="197" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e1e2e" text-anchor="middle">G</text>
+  
+  <rect x="805" y="180" width="25" height="25" rx="5" ry="5" fill="#ff8906" />
+  <text x="817" y="197" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e1e2e" text-anchor="middle">F</text>
+  
+  <rect x="770" y="215" width="25" height="25" rx="5" ry="5" fill="#ff8906" />
+  <text x="782" y="232" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e1e2e" text-anchor="middle">M</text>
+  
+  <rect x="805" y="215" width="25" height="25" rx="5" ry="5" fill="#ff8906" />
+  <text x="817" y="232" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e1e2e" text-anchor="middle">A</text>
+  
+  <text x="800" y="255" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">Games • Films</text>
+  <text x="800" y="270" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">Media • Art</text>
+  
+  <!-- Specialized Agent Boxes -->
+  <!-- Los Muertos World Scholar -->
+  <rect x="110" y="320" width="175" height="80" rx="10" ry="10" fill="#2c2c44" stroke="#c77dff" stroke-width="2" />
+  <circle cx="140" cy="345" r="15" fill="#ff6d00" />
+  <text x="140" y="350" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e1e2e" text-anchor="middle">AI</text>
+  <text x="220" y="345" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">Los Muertos World</text>
+  <text x="220" y="365" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">Scholar</text>
+  <text x="200" y="385" font-family="Arial, sans-serif" font-size="10" fill="#c77dff" text-anchor="middle">Ensures narrative consistency</text>
+  
+  <!-- Story Network Specialist -->
+  <rect x="520" y="320" width="160" height="80" rx="10" ry="10" fill="#2c2c44" stroke="#c77dff" stroke-width="2" />
+  <circle cx="550" cy="345" r="15" fill="#5a189a" />
+  <text x="550" y="350" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e1e2e" text-anchor="middle">AIhttps://opensea.io/item/ethereum/0xc878671ff88f1374d2186127573e4a63931370fc/2483</text>
+  <text x="620" y="345" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">Story Network</text>
+  <text x="620" y="365" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">Specialist</text>
+  <text x="600" y="385" font-family="Arial, sans-serif" font-size="10" fill="#c77dff" text-anchor="middle">Maximizes IP asset value</text>
+  
+  <!-- Narrative Universe Cloud/Ellipse -->
+  <ellipse cx="450" cy="490" rx="300" ry="60" fill="#2c2c44" stroke="#ff6d00" stroke-width="2" />
+  <text x="450" y="480" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle">Los Muertos Narrative Universe</text>
+  <text x="450" y="510" font-family="Arial, sans-serif" font-size="14" fill="#c77dff" text-anchor="middle">Stories • Characters • Lore • Community • IP Assets</text>
+  
+  <!-- Connection Lines - FIXED TO STOP AT BOX BORDERS -->
+  <!-- NFT to StoryElement -->
+  <path d="M260 200 L300 200" stroke="#9d4edd" stroke-width="3" stroke-dasharray="5,5" fill="none" />
+  <polygon points="295,195 300,200 295,205" fill="#9d4edd" />
+  
+  <!-- StoryElement to Story Network -->
+  <path d="M500 200 L540 200" stroke="#9d4edd" stroke-width="3" stroke-dasharray="5,5" fill="none" />
+  <polygon points="535,195 540,200 535,205" fill="#9d4edd" />
+  
+  <!-- Story Network to Licensees -->
+  <path d="M700 200 L740 200" stroke="#ff8906" stroke-width="3" stroke-dasharray="5,5" fill="none" />
+  <polygon points="735,195 740,200 735,205" fill="#ff8906" />
+  
+  <!-- NFT to AI Scholar -->
+  <path d="M180 270 L180 320" stroke="#ff6d00" stroke-width="2" stroke-dasharray="5,5" fill="none" />
+  <polygon points="175,315 180,320 185,315" fill="#ff6d00" />
+  
+  <!-- NFT to SP Specialist (curved to avoid crossing) -->
+  <path d="M260 240 C350 240, 450 280, 520 350" stroke="#ff6d00" stroke-width="2" stroke-dasharray="5,5" fill="none" />
+  <polygon points="515,345 520,350 525,345" fill="#ff6d00" />
+  
+  <!-- StoryElement to Universe -->
+  <path d="M400 370 L400 430" stroke="#ff6d00" stroke-width="3" fill="none" />
+  <polygon points="395,425 400,430 405,425" fill="#ff6d00" />
+  
+  <!-- AI Scholar to Universe (curved) -->
+  <path d="M200 400 C200 440, 250 460, 300 470" stroke="#c77dff" stroke-width="2" fill="none" />
+  <polygon points="295,465 300,470 305,465" fill="#c77dff" />
+  
+  <!-- SP Specialist to Universe (curved) -->
+  <path d="M600 400 C600 440, 550 460, 500 470" stroke="#5a189a" stroke-width="2" fill="none" />
+  <polygon points="495,465 500,470 505,465" fill="#5a189a" />
+  
+  <!-- Licensees to Universe (curved) -->
+  <path d="M800 270 C810 390, 700 460, 600 470" stroke="#ff8906" stroke-width="2" fill="none" />
+  <polygon points="595,465 600,470 605,465" fill="#ff8906" />
+  
+  <!-- Specialists Connection (for validation flow) -->
+  <path d="M280 360 L520 360" stroke="#c77dff" stroke-width="2" fill="none" />
+  <polygon points="515,355 520,360 515,365" fill="#c77dff" />
+</svg>

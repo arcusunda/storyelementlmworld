@@ -1,0 +1,78 @@
+# Node.js
+node_modules/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+.next/
+out/
+
+# Dependency directories
+bower_components/
+
+# Next.js cache
+.next/cache/
+
+# Static exports
+out/
+
+# Vercel deployment
+.vercel/
+
+# IntelliJ IDEA
+.idea/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Windows
+Thumbs.db
+
+# Miscellaneous
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+.vscode/*
+*.code-workspace
+
+# Lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build files
+build/
+dist/
+
+# Coverage reports
+coverage/
+.nyc_output/
+*.lcov
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.seed
+*.pid.lock
+*.tgz
+*.tar.gz
+
+# Environment variable files
+.env
+.env.*.local
+
